@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-api-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daehwa Seo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "sequelize": "^5.8.1"
+  },
+  "devDependencies": {
+    "shipit-cli": "^4.2.0",
+    "shipit-deploy": "^4.1.4"
+  }
+}
